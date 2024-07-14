@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7gL8kQWVD25qnL4+L5LhSeoJSqwZNWe5jYtMF8zU3QfuFL+m1TGfAPG+aAcAuwnLzH5jz0DGIp8Ok9Cauok4Sw==",
+  "success": true,
+  "projectFilePath": "E:\\Abarroteria_Buen_Gusto\\CapaModelo\\CapaModelo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josue Bermudez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Josue Bermudez\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Josue Bermudez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

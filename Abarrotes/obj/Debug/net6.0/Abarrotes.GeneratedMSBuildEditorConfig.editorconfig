@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Abarrotes
+build_property.RootNamespace = Abarrotes
+build_property.ProjectDir = E:\Abarroteria_Buen_Gusto\Abarrotes\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Abarroteria_Buen_Gusto\Abarrotes
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Categoria/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Cliente/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Compras/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Descartado/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzY2FydGFkb1xDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Devolucion/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2b2x1Y2lvblxDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Empleado/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Producto/CrearP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXJQLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Proveedor/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Usuario/LoginRegistro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMb2dpblJlZ2lzdHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Usuario/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xSZWdpc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Ventas/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFzXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Abarroteria_Buen_Gusto/Abarrotes/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-t14n64hkjz

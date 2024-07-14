@@ -1,0 +1,11 @@
+E:\Abarroteria_Buen_Gusto\CapaModelo\bin\Debug\net6.0\CapaModelo.deps.json
+E:\Abarroteria_Buen_Gusto\CapaModelo\bin\Debug\net6.0\CapaModelo.dll
+E:\Abarroteria_Buen_Gusto\CapaModelo\bin\Debug\net6.0\CapaModelo.pdb
+E:\Abarroteria_Buen_Gusto\CapaModelo\obj\Debug\net6.0\CapaModelo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abarroteria_Buen_Gusto\CapaModelo\obj\Debug\net6.0\CapaModelo.AssemblyInfoInputs.cache
+E:\Abarroteria_Buen_Gusto\CapaModelo\obj\Debug\net6.0\CapaModelo.AssemblyInfo.cs
+E:\Abarroteria_Buen_Gusto\CapaModelo\obj\Debug\net6.0\CapaModelo.csproj.CoreCompileInputs.cache
+E:\Abarroteria_Buen_Gusto\CapaModelo\obj\Debug\net6.0\CapaModelo.dll
+E:\Abarroteria_Buen_Gusto\CapaModelo\obj\Debug\net6.0\refint\CapaModelo.dll
+E:\Abarroteria_Buen_Gusto\CapaModelo\obj\Debug\net6.0\CapaModelo.pdb
+E:\Abarroteria_Buen_Gusto\CapaModelo\obj\Debug\net6.0\ref\CapaModelo.dll

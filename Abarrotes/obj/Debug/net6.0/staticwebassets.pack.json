@@ -1,0 +1,709 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Abarrotes.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Abarrotes.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\Assets\\images\\Fonfo.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\Fonfo.jpg"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\Assets\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\banner-bg.png"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\Assets\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\images.jpg"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\Assets\\images\\images.png",
+      "PackagePath": "staticwebassets\\Assets\\images\\images.png"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\Assets\\images\\imagesFondo.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\imagesFondo.jpg"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\Assets\\images\\logoimg.jpg",
+      "PackagePath": "staticwebassets\\Assets\\images\\logoimg.jpg"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap5.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap5.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bulma.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bulma.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bulma.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bulma.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.dataTables.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.foundation.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.foundation.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.foundation.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.jqueryui.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.semanticui.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.semanticui.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.semanticui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\common.scss",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\common.scss"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\mixins.scss",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\mixins.scss"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap5.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap5.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bulma.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bulma.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bulma.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bulma.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.dataTables.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.foundation.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.foundation.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.foundation.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.jqueryui.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.print.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.semanticui.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.semanticui.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.semanticui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\images\\sort_asc.png"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\images\\sort_both.png"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\images\\sort_desc.png"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\DataTables-1.13.6\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.6\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\JSZip-3.10.1\\jszip.js",
+      "PackagePath": "staticwebassets\\DataTables\\JSZip-3.10.1\\jszip.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\JSZip-3.10.1\\jszip.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\JSZip-3.10.1\\jszip.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\pdfmake-0.2.7\\pdfmake.js",
+      "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.2.7\\pdfmake.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\pdfmake-0.2.7\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.2.7\\pdfmake.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\DataTables\\pdfmake-0.2.7\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.2.7\\vfs_fonts.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\css\\Layout.css",
+      "PackagePath": "staticwebassets\\css\\Layout.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\css\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\css\\sweetalert2.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\js\\Cliente_Crud.js",
+      "PackagePath": "staticwebassets\\js\\Cliente_Crud.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\js\\CrudCategoria.js",
+      "PackagePath": "staticwebassets\\js\\CrudCategoria.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\js\\CrudEmpleado.js",
+      "PackagePath": "staticwebassets\\js\\CrudEmpleado.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\js\\CrudProveedor.js",
+      "PackagePath": "staticwebassets\\js\\CrudProveedor.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\js\\Crud_Producto.js",
+      "PackagePath": "staticwebassets\\js\\Crud_Producto.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\js\\Descartado_Crud.js",
+      "PackagePath": "staticwebassets\\js\\Descartado_Crud.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\js\\Devoluciones_Crud.js",
+      "PackagePath": "staticwebassets\\js\\Devoluciones_Crud.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\js\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\js\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\js\\sweetalert2.all.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Abarroteria_Buen_Gusto\\Abarrotes\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Abarrotes.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Abarrotes.props",
+      "PackagePath": "build\\Abarrotes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Abarrotes.props",
+      "PackagePath": "buildMultiTargeting\\Abarrotes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Abarrotes.props",
+      "PackagePath": "buildTransitive\\Abarrotes.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

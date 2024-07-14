@@ -1,0 +1,15 @@
+E:\Abarroteria_Buen_Gusto\CapaDatos\bin\Debug\net6.0\CapaDatos.deps.json
+E:\Abarroteria_Buen_Gusto\CapaDatos\bin\Debug\net6.0\CapaDatos.dll
+E:\Abarroteria_Buen_Gusto\CapaDatos\bin\Debug\net6.0\CapaDatos.pdb
+E:\Abarroteria_Buen_Gusto\CapaDatos\bin\Debug\net6.0\CapaModelo.dll
+E:\Abarroteria_Buen_Gusto\CapaDatos\bin\Debug\net6.0\CapaModelo.pdb
+E:\Abarroteria_Buen_Gusto\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.AssemblyReference.cache
+E:\Abarroteria_Buen_Gusto\CapaDatos\obj\Debug\net6.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abarroteria_Buen_Gusto\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfoInputs.cache
+E:\Abarroteria_Buen_Gusto\CapaDatos\obj\Debug\net6.0\CapaDatos.AssemblyInfo.cs
+E:\Abarroteria_Buen_Gusto\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.CoreCompileInputs.cache
+E:\Abarroteria_Buen_Gusto\CapaDatos\obj\Debug\net6.0\CapaDatos.csproj.Up2Date
+E:\Abarroteria_Buen_Gusto\CapaDatos\obj\Debug\net6.0\CapaDatos.dll
+E:\Abarroteria_Buen_Gusto\CapaDatos\obj\Debug\net6.0\refint\CapaDatos.dll
+E:\Abarroteria_Buen_Gusto\CapaDatos\obj\Debug\net6.0\CapaDatos.pdb
+E:\Abarroteria_Buen_Gusto\CapaDatos\obj\Debug\net6.0\ref\CapaDatos.dll
